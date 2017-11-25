@@ -1,8 +1,8 @@
-# WebDevelopment
-Learning Web Development
+# Web Development
+Learning the techniques of Web Development
 
 ## Language  
-HTML css
+HTML CSS Javascript
 
 ## Current
 CSS Margins
